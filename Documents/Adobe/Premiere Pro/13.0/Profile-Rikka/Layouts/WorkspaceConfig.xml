@@ -1,0 +1,126 @@
+<?xml version='1.0'?>
+<prop.map version='4'>
+<prop.list>
+<prop.pair>
+<key>BuiltInKeys</key>
+<array>
+<array.type><string/></array.type>
+<string>$$$/Premiere/FrontEnd/Learning=Learning</string>
+<string>$$$/Premiere/FrontEnd/AllPanels=All Panels</string>
+<string>$$$/Premiere/FrontEnd/Assembly=Assembly</string>
+<string>$$$/Premiere/FrontEnd/Editing=Editing</string>
+<string>$$$/Premiere/FrontEnd/Color=Color</string>
+<string>$$$/Premiere/FrontEnd/Effects=Effects</string>
+<string>$$$/Premiere/FrontEnd/Audio=Audio</string>
+<string>$$$/Premiere/FrontEnd/Metalogging=Metalogging</string>
+<string>$$$/Premiere/FrontEnd/Graphics=Graphics</string>
+<string>$$$/Premiere/FrontEnd/Libraries=Libraries</string>
+</array>
+</prop.pair>
+<prop.pair>
+<key>BuiltIns</key>
+<array>
+<array.type><ustring/></array.type>
+</array>
+</prop.pair>
+<prop.pair>
+<key>FilePaths</key>
+<array>
+<array.type><ustring/></array.type>
+<ustring>C:\Users\Rikka\Documents\Adobe\Premiere Pro\13.0\Profile-Rikka\Layouts\UserWorkspace4.xml</ustring>
+<ustring>C:\Users\Rikka\Documents\Adobe\Premiere Pro\13.0\Profile-Rikka\Layouts\UserWorkspace2.xml</ustring>
+<ustring>C:\Users\Rikka\Documents\Adobe\Premiere Pro\13.0\Profile-Rikka\Layouts\UserWorkspace9.xml</ustring>
+<ustring>C:\Users\Rikka\Documents\Adobe\Premiere Pro\13.0\Profile-Rikka\Layouts\UserWorkspace8.xml</ustring>
+<ustring>C:\Users\Rikka\Documents\Adobe\Premiere Pro\13.0\Profile-Rikka\Layouts\UserWorkspace1.xml</ustring>
+<ustring>C:\Users\Rikka\Documents\Adobe\Premiere Pro\13.0\Profile-Rikka\Layouts\UserWorkspace3.xml</ustring>
+<ustring>C:\Users\Rikka\Documents\Adobe\Premiere Pro\13.0\Profile-Rikka\Layouts\UserWorkspace5.xml</ustring>
+<ustring>C:\Users\Rikka\Documents\Adobe\Premiere Pro\13.0\Profile-Rikka\Layouts\UserWorkspace6.xml</ustring>
+<ustring>C:\Users\Rikka\Documents\Adobe\Premiere Pro\13.0\Profile-Rikka\Layouts\UserWorkspace7.xml</ustring>
+</array>
+</prop.pair>
+<prop.pair>
+<key>MainWndPos</key>
+<prop.list>
+<prop.pair>
+<key>MaxPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>-1</int>
+<int type='signed' size='32'>-1</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>MinPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>-1</int>
+<int type='signed' size='32'>-1</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>NormalPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>10</int>
+<int type='signed' size='32'>10</int>
+<int type='signed' size='32'>1910</int>
+<int type='signed' size='32'>1030</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>ShowCmd</key>
+<int type='signed' size='32'>3</int>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>ModifiedTimes</key>
+<array>
+<array.type><string/></array.type>
+<string>20180220T013851.073802</string>
+<string>20190527T164627.309255</string>
+<string>20190527T164430.011485</string>
+<string>20190527T161944.519174</string>
+<string>20190527T170239.736695</string>
+<string>20190527T171543.789206</string>
+<string>20170923T024003.164077</string>
+<string>20170923T024004.238026</string>
+<string>20170916T055221.422121</string>
+</array>
+</prop.pair>
+<prop.pair>
+<key>UserNames</key>
+<array>
+<array.type><ustring/></array.type>
+<ustring>$$$/Premiere/FrontEnd/AllPanels=All Panels</ustring>
+<ustring>$$$/Premiere/FrontEnd/Assembly=Assembly</ustring>
+<ustring>$$$/Premiere/FrontEnd/Audio=Audio</ustring>
+<ustring>$$$/Premiere/FrontEnd/Color=Color</ustring>
+<ustring>$$$/Premiere/FrontEnd/Editing=Editing</ustring>
+<ustring>$$$/Premiere/FrontEnd/Effects=Effects</ustring>
+<ustring>$$$/Premiere/FrontEnd/Graphics=Graphics</ustring>
+<ustring>$$$/Premiere/FrontEnd/Libraries=Libraries</ustring>
+<ustring>$$$/Premiere/FrontEnd/Metalogging=Metalogging</ustring>
+</array>
+</prop.pair>
+<prop.pair>
+<key>WorkspaceConfigVersion</key>
+<string>1.1</string>
+</prop.pair>
+<prop.pair>
+<key>WorkspaceTypes</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+</array>
+</prop.pair>
+</prop.list>
+</prop.map>

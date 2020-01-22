@@ -1,0 +1,1393 @@
+-------- Plugin Loading Log ------------
+
+Loading from root path: C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\
+Clearing the plugin cache from the registry. Existing version: 0, current version: 53. RegistrationHasChanged() returned: 1
+
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Begin PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction6.dll" 0
+Finished PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US 0
+Scanning C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US and sub-directories
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction1.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction2.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction6.dll
+Loading from disk...
+This plugin was recognized by loader 0c25b1b0-35d6-4750-be5a-a7f92f33e017.
+
+Loading from root path: C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Begin PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoColor.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoContrast.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoLevels.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterAlphaAdjust.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterArithmetic.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterASCCDL.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterB-C-2.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBasic_3D.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBevel_Alpha.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBevel_Edges.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlackAndWhite.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlend.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlock_Dissolve.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlueScreen.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBroadcast_Colors.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBrush_Strokes.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCalculations.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCellPattern.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChangeToColor.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChange_Color.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChannel_Blur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChannel_Mixer.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCheckerboard.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChromaKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCineonEffect.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCircle.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterClipName.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorFast.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorRGBCorrector.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorsQuad.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorThreeWay.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Balance_2.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Emboss.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_HLS.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Key.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCompound_Arith.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCompound_Blur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCorner_Pin.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCrop.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCrossDissolve.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDifference.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDigitalVideoLimiter.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDipToBlack.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDipToWhite.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDirectionalBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDrop_Shadow.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDust.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEcho.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEdgeFeather.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEllipse.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEmboss.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEqualize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEyedropperFill.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterFast_Blur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterFind_Edges.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte16.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte8.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGaussianBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGradient_Wipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGraphicGroup.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGrid.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterImageMatteKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterInvert.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLeave_Color.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLens_Flare.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLightingEffect.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLightning.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLinear_Wipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaCorrector.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaCurve.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumetri.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMagnify.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMask.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMedian.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMirror.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMorphCut.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMosaic.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoise.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseAlpha.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseHLS.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseHLSAuto.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNonRedKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterOffset.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPaintBucket.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPosterize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPosterize_Time.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterProcAmp.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRadialShadow.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRadial_Wipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRamp.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRemoveMatte.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRGBCurves.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRGBDifferenceKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRollingShutter.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRoughenEdges.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSDRConform.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSet_Matte.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterShape.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSharpen.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSimpleText.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSolidComposite.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSpherize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterStabilizer.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterStrobe_Light.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterText.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTexturize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterThreshold.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTimecode.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTint.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTrackMatteKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTransform.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTurbulentDisplace.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTwirl.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterUltraKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterUnsharp_Mask.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVenetian_Blinds.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVideoLimiter.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRChromaLeaks.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRChromaticAberration.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRColorGradient.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRDenoise.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRDigitalGlitch.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRFractalNoise.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGaussianBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGlow.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGradientWipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRIrisWipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRLightLeaks.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRLightRays.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRMobius.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRProject2D.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRProjection.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRRandomBlocks.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRRotateSphere.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRSharpen.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRSphericalBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterWave_Warp.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterWrite_on.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEShadowHighlight.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ArriRawMXFSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ARRIRAWSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\CanonRawSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\CinemaDNGSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\DPXSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterAIFF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterAVI.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterBMP.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterDPX.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterGIF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterGIFStill.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterJPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMP3.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEG2.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEG4.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEGPreview.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMXF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterNULL.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterP2.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterPNG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterQuickTimeHost.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterTarga.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterTIFF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterUncompressed.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterWave.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterWindowsMedia.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterXDCAMHD.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\F65SourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\FCPXProjectConverter.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAIDE.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAIEPS.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAIFF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterARRIRAW.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterASND.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAVI.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterBarsAndTone.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterBlackMatte.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterCaptioning.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterColorMatte.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterDirectShow.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterDPX.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterF65.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterFastMPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterFLV.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterGraphics.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterHDBarsAndTone.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterJPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterLeader.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterLumetri.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMP3.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMultiStill.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMXF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterPhotoshopProxy.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterPNG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterQuickTime.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterRED.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterSensorManager.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTarga.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTiff.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTransparentMatte.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterWave.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterWindowsMedia.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterXDCAMEX.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\libmmd.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Motion.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\MPEGSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Opacity.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\OpenEXR.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\PlayerMediaCore.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\PremiereFiltersMetaPlugin.prmp" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\REDSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\SMDK-VC140-x64-4_15_0.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\SonyRawMXFSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\svml_dispmd.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\TransitionsMetaPlugin.prmp" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Wraptor.prm" 0
+Finished PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common 0
+Scanning C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common and sub-directories
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoColor.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoContrast.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoLevels.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterAlphaAdjust.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterArithmetic.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterASCCDL.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterB-C-2.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBasic_3D.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBevel_Alpha.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBevel_Edges.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlackAndWhite.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlend.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlock_Dissolve.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlueScreen.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBroadcast_Colors.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBrush_Strokes.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCalculations.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCellPattern.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChangeToColor.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChange_Color.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChannel_Blur.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChannel_Mixer.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCheckerboard.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChromaKey.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCineonEffect.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+PF_Cmd_GLOBAL_SETUP returned error 1024.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCircle.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterClipName.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorFast.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorRGBCorrector.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorsQuad.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorThreeWay.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Balance_2.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Emboss.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_HLS.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Key.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCompound_Arith.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCompound_Blur.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCorner_Pin.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCrop.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCrossDissolve.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDifference.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDigitalVideoLimiter.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDipToBlack.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDipToWhite.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDirectionalBlur.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDrop_Shadow.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDust.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEcho.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEdgeFeather.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEllipse.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEmboss.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEqualize.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEyedropperFill.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterFast_Blur.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterFind_Edges.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte16.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte8.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGaussianBlur.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGradient_Wipe.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGraphicGroup.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGrid.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterImageMatteKey.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterInvert.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLeave_Color.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLens_Flare.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLightingEffect.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLightning.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLinear_Wipe.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaCorrector.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaCurve.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaKey.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumetri.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMagnify.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMask.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMedian.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMirror.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMorphCut.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMosaic.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoise.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseAlpha.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+PF_Cmd_GLOBAL_SETUP returned error 1024.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseHLS.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+PF_Cmd_GLOBAL_SETUP returned error 1024.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseHLSAuto.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+PF_Cmd_GLOBAL_SETUP returned error 1024.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNonRedKey.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterOffset.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPaintBucket.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPosterize.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPosterize_Time.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterProcAmp.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRadialShadow.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRadial_Wipe.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRamp.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRemoveMatte.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRGBCurves.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRGBDifferenceKey.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRollingShutter.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRoughenEdges.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSDRConform.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSet_Matte.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterShape.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSharpen.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSimpleText.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSolidComposite.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSpherize.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterStabilizer.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterStrobe_Light.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterText.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTexturize.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterThreshold.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+PF_Cmd_GLOBAL_SETUP returned error 1024.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTimecode.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTint.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTrackMatteKey.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTransform.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTurbulentDisplace.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTwirl.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterUltraKey.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterUnsharp_Mask.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+PF_Cmd_GLOBAL_SETUP returned error 1024.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVenetian_Blinds.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVideoLimiter.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRChromaLeaks.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRChromaticAberration.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRColorGradient.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRDenoise.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRDigitalGlitch.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRFractalNoise.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGaussianBlur.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGlow.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGradientWipe.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRIrisWipe.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRLightLeaks.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRLightRays.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRMobius.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRProject2D.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRProjection.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRRandomBlocks.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRRotateSphere.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRSharpen.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRSphericalBlur.aex
+Loading from disk...
+This plugin was recognized by loader 624e610b-0372-4082-b625-73865c15932b.
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterWave_Warp.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterWrite_on.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEShadowHighlight.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ArriRawMXFSourceSettings.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ARRIRAWSourceSettings.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\CanonRawSourceSettings.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\CinemaDNGSourceSettings.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\DPXSourceSettings.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterAIFF.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterAVI.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterBMP.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterDPX.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterGIF.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterGIFStill.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterJPEG.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMP3.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEG2.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEG4.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEGPreview.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMXF.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterNULL.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterP2.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterPNG.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterTarga.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterTIFF.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterUncompressed.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterWave.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterWindowsMedia.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterXDCAMHD.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\F65SourceSettings.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\FCPXProjectConverter.prm
+Loading from disk...
+This plugin was recognized by loader 2d887736-82fa-4239-9b42-9019215e470d.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAIDE.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAIEPS.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAIFF.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterARRIRAW.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterASND.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAVI.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterBarsAndTone.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterBlackMatte.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterCaptioning.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterColorMatte.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterDirectShow.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterDPX.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterF65.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterFastMPEG.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterFLV.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterGraphics.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterHDBarsAndTone.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterJPEG.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterLeader.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterLumetri.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMP3.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMPEG.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMultiStill.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMXF.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterPhotoshopProxy.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterPNG.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterRED.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterSensorManager.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTarga.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTiff.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTransparentMatte.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterWave.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterWindowsMedia.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterXDCAMEX.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\libmmd.dll
+Loading from disk...
+No loaders recognized this plugin, so the plugin is set to Ignore.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Motion.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\MPEGSourceSettings.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Opacity.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\OpenEXR.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\PlayerMediaCore.prm
+Loading from disk...
+This plugin was recognized by loader 1b5bc335-92e5-4479-bd38-d18bedec69b2.
+This plugin was recognized by loader c9936cb9-1979-48c8-bf22-dbe0ec323274.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\PremiereFiltersMetaPlugin.prmp
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\REDSourceSettings.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\SMDK-VC140-x64-4_15_0.dll
+Loading from disk...
+No loaders recognized this plugin, so the plugin is set to Ignore.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\SonyRawMXFSourceSettings.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\svml_dispmd.dll
+Loading from disk...
+No loaders recognized this plugin, so the plugin is set to Ignore.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\TransitionsMetaPlugin.prmp
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Wraptor.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterQuickTimeHost.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterQuickTime.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading from root path: C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
+Clearing the plugin cache from the registry. Existing version: 53, current version: 53. RegistrationHasChanged() returned: 1
+
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Begin PluginNameList::AddFolder C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Twixtor6AE\CreateMotionVectors_64.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Twixtor6AE\TwixtorProVectorsIn_64.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Twixtor6AE\TwixtorPro_64.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Twixtor6AE\Twixtor_64.aex" 0
+Finished PluginNameList::AddFolder C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore 0
+Scanning C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore and sub-directories
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Twixtor6AE\CreateMotionVectors_64.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Twixtor6AE\TwixtorProVectorsIn_64.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Twixtor6AE\TwixtorPro_64.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Twixtor6AE\Twixtor_64.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+

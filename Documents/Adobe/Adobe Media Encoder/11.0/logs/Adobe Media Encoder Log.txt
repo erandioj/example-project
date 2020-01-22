@@ -1,0 +1,20 @@
+Log file created: 9/16/2017 1:14:18 AM
+----------------------------------------
+Ticks = 375      <2544> <AMEApp> <0> Dolby codec permission check failed
+Ticks = 9984      <2544> <NVidiaH264Codec> <4> The referenced device does not exist, deviceID: 0
+Ticks = 9984      <2544> <NVidiaH264Codec> <4> The referenced device does not exist, deviceID: 0
+Ticks = 11406      <2544> <AMEApp> <0> Time taken to load MediaCore plugins: 1417.26 milliseconds.
+Ticks = 11594      <9136> <LoadProject> <0> 0.0656547s
+Ticks = 11719      <9136> <MSDKDecoderWithMCDemux> <5> No Intel device D3D11 or DX9 context created, hardware decode not available.
+Ticks = 11797      <9136> <MSDKDecoderWithMCDemux> <5> No Intel device D3D11 or DX9 context created, hardware decode not available.
+Ticks = 11922      <9136> <MSDKDecoderWithMCDemux> <5> No Intel device D3D11 or DX9 context created, hardware decode not available.
+Ticks = 11969      <9136> <MSDKDecoderWithMCDemux> <5> No Intel device D3D11 or DX9 context created, hardware decode not available.
+Ticks = 12437      <2544> <AMEApp> <1> Entering RunEventLoop
+Ticks = 1897844      <8140> <EncoderStateH264> <1> No H/W Codec found for H.264
+Ticks = 1898265      <10948> <MSDKDecoderWithMCDemux> <5> No Intel device D3D11 or DX9 context created, hardware decode not available.
+Ticks = 1898265      <8652> <MSDKDecoderWithMCDemux> <5> No Intel device D3D11 or DX9 context created, hardware decode not available.
+Ticks = 2025687      <8140> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 127.842 seconds. Result code: 1 Destination:C:\Users\Rikka\Videos\CidadeVideoConvert\2017-06-29-0310-22_1.mp4
+Ticks = 2025890      <2544> <AMEApp> <1> Exited RunEventLoop
+-----------------------------------------
+Log file closed: 9/16/2017 1:48:04 AM
+

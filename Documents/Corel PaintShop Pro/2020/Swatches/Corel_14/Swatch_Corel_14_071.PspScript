@@ -1,0 +1,25 @@
+from PSPApp import *
+
+def ScriptProperties():
+    return {
+        'Author': u'',
+        'Copyright': u'',
+        'Description': u''
+        }
+
+def Swatch_SetMaterial():
+    return {
+        'IsPrimary': True, 
+        'NewMaterial': {
+            'Color': (255,106,0), 
+            'Pattern': None, 
+            'Gradient': None, 
+            'Texture': None, 
+            'Art': None
+            }
+        }
+
+def Do(Environment):
+    # SetMaterial
+    App.Do( Environment, 'SetMaterial',         Swatch_SetMaterial())
+

@@ -1,0 +1,32 @@
+<CheckQuestList Version="1"/>
+<QuestSortType Version="1"/>
+<QuestSelectType Version="1"/>
+<QuickSlotData Version="1"/>
+<ShortcutKey Version="1"/>
+<ChattingMacro Version="1"/>
+<UIData Version="1"/>
+<GameOption Version="1"/>
+<EquipSlotFlag Version="2"/>
+<BlockList Version="1"/>
+<MessageFilter Version="1"/>
+<GameOptionGlobal Version="2">
+	<ChatLanguageType Value="1"/>
+</GameOptionGlobal>
+<UIValue Version="1"/>
+<VoiceChatInfo Version="1"/>
+<PetInfo Version="1"/>
+<SkillCommandLock Version="1"/>
+<SkillCoolTimeSlot Version="1"/>
+<ItemLockedInInventory Version="1"/>
+<QuestOption Version="1"/>
+<UISettingPreset Version="1"/>
+<PetOrderList Version="1"/>
+<PetGroupInfo Version="1"/>
+<MemoList Version="1"/>
+<GameOptionCustomize Version="1"/>
+<ButtonShortcutsList Version="1"/>
+<FairySettingData Version="1"/>
+<ConsoleQuickMenu Version="3"/>
+<ConsoleWorldMapBookMark Version="2"/>
+<BlackSpiritSkillBlock Version="1"/>
+

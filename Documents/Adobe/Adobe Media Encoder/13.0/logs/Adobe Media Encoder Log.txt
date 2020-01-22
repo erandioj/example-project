@@ -1,0 +1,24 @@
+Log file created: 2/4/2019 12:25:00 AM
+----------------------------------------
+Ticks = 813      <8708> <Wasapi initialization> <5> Time =  0.0275261second
+Ticks = 1391      <8708> <EncoderNVH264> <5>    New instance.
+Ticks = 1407      <8708> <EncoderNVH264> <5>    Constructor.
+Ticks = 1407      <8708> <EncoderNVH264> <5>    Start service.
+Ticks = 1407      <8708> <EncoderNVH264> <5>    Load NVENC API.
+Ticks = 1422      <8708> <EncoderNVH264> <5>    Load CUDA.
+Ticks = 1610      <13768> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 56158
+Ticks = 1657      <8708> <NVH264::LoadCuda> <1>     CUDA: Num Devices = 1
+Ticks = 1828      <8708> <EncoderNVH264> <5>      FAILED to load CUDA.
+Ticks = 5516      <8708> <DS> <5> GPUSniffer launching with test mask 254
+Ticks = 13828      <8708> <EACL.HostedLogin> <5> Entitlement record did not pass application entitlement policy, ccAdobeID: jexter_jexx@yahoo.com, ccPersonGUID: 936466385AEA1E720A495D56@AdobeID
+Ticks = 13828      <8708> <EACL.HostedLogin> <4> Non-entitled response received, ccAdobeID: jexter_jexx@yahoo.com, ccPersonGUID: 936466385AEA1E720A495D56@AdobeID, error_code: 403010
+Ticks = 14328      <8708> <AMEApp> <0> Time taken to load MediaCore plugins: 7682.81 milliseconds.
+Ticks = 16672      <8708> <AMEApp> <1> Entering RunEventLoop
+Ticks = 16672      <8708> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 16782      <656> <LoadProject> <0> 0.0662086s
+Ticks = 16938      <656> <MSDKDecoderWithMCDemux> <5> No Intel device D3D11 or DX9 context created, hardware decode not available.
+Ticks = 17094      <656> <MSDKDecoderWithMCDemux> <5> No Intel device D3D11 or DX9 context created, hardware decode not available.
+Ticks = 56907      <8708> <AMEApp> <1> Exited RunEventLoop
+-----------------------------------------
+Log file closed: 2/4/2019 12:25:57 AM
+

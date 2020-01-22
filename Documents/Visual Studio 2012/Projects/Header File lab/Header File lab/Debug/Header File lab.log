@@ -1,0 +1,17 @@
+﻿Build started 4/8/2019 5:18:46 PM.
+     1>Project "C:\Users\Rikka\documents\visual studio 2012\Projects\Header File lab\Header File lab\Header File lab.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CompositionTest\Date.cpp CompositionTest\Employee.cpp
+         Employee.cpp
+         Date.cpp
+     1>c:\users\rikka\documents\visual studio 2012\projects\header file lab\header file lab\compositiontest\employee.h(7): error C2061: syntax error : identifier 'string'
+     1>c:\users\rikka\documents\visual studio 2012\projects\header file lab\header file lab\compositiontest\employee.h(14): error C2146: syntax error : missing ';' before identifier 'start_date'
+     1>c:\users\rikka\documents\visual studio 2012\projects\header file lab\header file lab\compositiontest\employee.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\rikka\documents\visual studio 2012\projects\header file lab\header file lab\compositiontest\employee.h(16): error C2146: syntax error : missing ';' before identifier 'first_name'
+     1>c:\users\rikka\documents\visual studio 2012\projects\header file lab\header file lab\compositiontest\employee.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+         Generating Code...
+     1>Done Building Project "C:\Users\Rikka\documents\visual studio 2012\Projects\Header File lab\Header File lab\Header File lab.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.60
